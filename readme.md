@@ -54,28 +54,6 @@ GAN-Image-Transformation/
 - **Generate high-quality images** using the trained DCGAN model.
 - **Evaluate performance** with IS and FID scores.
 
-## HTML & CSS Formatting (Minimal Styling)
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        h1 { text-align: center; color: #333; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; }
-    </style>
-</head>
-<body>
-    <h1>GAN Image Transformation</h1>
-    <p>Transforming facial expressions and generating high-resolution images using GANs.</p>
-    <pre>
-        git clone https://github.com/deephabiswashi/GAN-Image-Transformation.git
-        cd GAN-Image-Transformation
-    </pre>
-</body>
-</html>
-```
-
 ## Contributors
 - **Deep Habiswashi(2230167)** - Developer
 - **Avilasha Goswami(2230162)** - Developer
